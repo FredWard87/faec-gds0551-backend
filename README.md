@@ -1,5 +1,5 @@
 #deberas clonar el proyecto con 
-git clone 
+git clone https://github.com/FredWard87/faec-gds0551-backend.git
 
 #proximamente instalar las dependencias con 
 
