@@ -1,5 +1,5 @@
 #deberas clonar el proyecto con 
-git clone https://github.com/FredWard87/faec-login-backend
+git clone 
 
 #proximamente instalar las dependencias con 
 
